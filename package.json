@@ -1,0 +1,29 @@
+{
+  "name": "nameless-js-candywrapper",
+  "version": "1.0.0",
+  "description": "Unofficial NamelessMC API library for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Wonder-Server/Nameless-JS-CandyWrapper.git"
+  },
+  "keywords": [
+    "nameless",
+    "namelessmc",
+    "forum",
+    "api"
+  ],
+  "author": "WonderDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/The-Wonder-Server/Nameless-JS-CandyWrapper/issues"
+  },
+  "homepage": "https://github.com/The-Wonder-Server/Nameless-JS-CandyWrapper#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "minami": "^1.2.3"
+  }
+}
