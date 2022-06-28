@@ -24,6 +24,7 @@
   "homepage": "https://github.com/The-Wonder-Server/Nameless-JS-CandyWrapper#readme",
   "devDependencies": {
     "dotenv": "^8.2.0",
-    "minami": "^1.2.3"
+    "minami": "^1.2.3",
+    "jsdoc": "^3.6.10"
   }
 }
