@@ -1,6 +1,6 @@
 {
   "name": "nameless-js-candywrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial NamelessMC API library for Node.js",
   "main": "index.js",
   "scripts": {
