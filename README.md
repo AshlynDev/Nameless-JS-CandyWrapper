@@ -8,4 +8,4 @@ We use [semantic versioning](https://semver.org/)!
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
-CHeck out the documentation [here](https://ashlyndev.github.io/Nameless-JS-CandyWrapper/nameless-js-candywrapper/1.0.1/)
+Check out the documentation [here](https://ashlyndev.github.io/Nameless-JS-CandyWrapper/nameless-js-candywrapper/1.0.1/)
